@@ -2,6 +2,7 @@
 
 🎯 **Data Analyst | Flutter Developer | Problem Solver**  
 📍 Chandigarh | Noida, India
+
 📧 [niharika.asiwal23@gmail.com](mailto:niharika.asiwal23@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/niharikaasiwal) | [Portfolio Projects](https://github.com/niharikaasiwal23)
 
